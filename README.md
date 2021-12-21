@@ -2,7 +2,7 @@
     Estudos para Front-End
 </h1>
 
-## Objetivos no desafio
+## Objetivo
 Me atualizar com todos os termos e teorias possíveis.
 
 
